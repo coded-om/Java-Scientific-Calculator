@@ -16,5 +16,5 @@ public class Task1 {
         line = sc.nextLine();
         System.out.println(" All the value is :");
         System.out.println("numbr is --> "+ number + "\n the flat is ---> " + number_flat + "\nthe word is --->" + word + "\n the line is ---->" + line);
-        
+
     }}
