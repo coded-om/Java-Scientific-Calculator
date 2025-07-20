@@ -9,7 +9,7 @@ public class Task2 {
         System.out.println("raised to the power "+Math.pow(number,3));
         System.out.println("trigonometric sine "+ Math.sin(Math.toRadians(number)));
         System.out.println("trigonometric cosine "+ Math.cos(Math.toRadians(number)));
-        System.out.println("trigonometric cosine "+ Math.tan(Math.toRadians(number)));
+        System.out.println("trigonometric tanine "+ Math.tan(Math.toRadians(number)));
         System.out.println("radians " + Math.toRadians(number));
         System.out.println("Dgree " + Math.toDegrees(number));
         System.out.println("Log   " + Math.log(number));
